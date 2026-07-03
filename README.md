@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Neo+Blessing+Sejwane;Full-Stack+Software+Developer;Analytical+Problem+Solver;Building+Scalable+Enterprise+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Neo+Sejwane;Full-Stack+Software+Developer;Analytical+Problem+Solver;Building+Scalable+Enterprise+Platforms" alt="Typing SVG" />
 
   <br/>
 
@@ -15,12 +15,18 @@
 
 ### 👨‍💻 A Little Bit About Me
 
+
 ```json
 {
-  "name": "Neo Blessing Sejwane",
+  "name": "Neo Sejwane",
   "location": "Johannesburg, South Africa",
-  "education": "BSc Applied Mathematics & Information Systems",
+  "education": "BSc Applied Mathematics & Information Systems (Rhodes University)",
   "current_role": "Full-Stack Developer & Analytical Problem Solver",
-  "tech_adaptability": "Transitioning OOP foundations (Java) to C# / ASP.NET",
-  "passion": "Bridging complex backend logic with premium UI/UX design."
+  "tech_stack": {
+    "frontend": ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    "backend": ["Java", "Spring Boot", "C# (ASP.NET Core adaptable)"],
+    "database": ["PostgreSQL", "MySQL", "SQL"],
+    "workflow": ["Git", "Docker", "CI/CD", "Agile/Scrum"]
+  },
+  "passion": "Bridging complex backend logic with premium UI/UX design to build scalable enterprise platforms."
 }
