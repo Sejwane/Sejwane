@@ -1,4 +1,4 @@
-# Hi there, I'm Neo Blessing Sejwane 👋
+# Hi there, I'm Neo Sejwane 👋
 
 <div align="center">
   <a href="https://linkedin.com/in/neo-sejwane" target="_blank">
