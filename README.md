@@ -3,7 +3,7 @@
 
   <br/>
 
-  <a href="https://linkedin.com/in/neo-sejwane" target="_blank">
+  <a href="www.linkedin.com/in/neo-sejwane-098311372" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sejwanebls@gmail.com">
@@ -43,5 +43,5 @@
 </div>
 
 <div align="center">
-  <p>⚡ <i>Built with curiosity and code. Thanks for visiting—feel free to connect via LinkedIn or email, I'm always open to a good conversation!</i></p>
+  <p>⚡ <i>Built with curiosity and code. Thanks for visiting feel free to connect via LinkedIn or email, I'm always open to a good conversation!</i></p>
 </div>
